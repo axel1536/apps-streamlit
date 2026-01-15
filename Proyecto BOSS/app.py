@@ -420,7 +420,7 @@ if not check_password():
 # ==================== MODO JEFE ====================
 if st.session_state["auth"] == "jefe":
     with st.sidebar:
-        st.image("img/logo.png", use_container_width=True)
+        st.image("https://raw.githubusercontent.com/axel1536/app-streamlit/main/img/logo.png", use_container_width=True)
         st.divider()
 
         obras = cargar_obras()

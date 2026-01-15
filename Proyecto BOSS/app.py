@@ -398,7 +398,7 @@ def check_password():
     if "auth" not in st.session_state:
         col1, col2, col3 = st.columns([2, 1, 2])
         with col2:
-            st.image("img/logo.png", width=300)
+            st.image("https://raw.githubusercontent.com/axel1536/app-streamlit/main/img/logo.png", width=300)
 
         col1, col2, col3 = st.columns([1, 4, 1])
         with col2:

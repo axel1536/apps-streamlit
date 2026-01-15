@@ -1,0 +1,468 @@
+{
+  "avance": [
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "gdfgdfgfdg",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110191222_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110191222_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110191222_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "Cimeneta",
+        "rendimiento": 6.0,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 3.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "OPERARIO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.116,
+            "Cantidad (HH)": 1.3333333333333333,
+            "Parcial (S/)": 33.488
+          },
+          {
+            "Descripción": "PEON",
+            "Cuadrilla": 0.5,
+            "Precio Unit.": 17.927,
+            "Cantidad (HH)": 0.6666666666666666,
+            "Parcial (S/)": 11.951333333333332
+          }
+        ],
+        "materiales": [
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 4.0,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 14.0
+          }
+        ],
+        "equipos": [],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 45.43933333333333,
+        "materiales": 98.0,
+        "equipos": 0,
+        "otros": 0,
+        "total_general": 143.43933333333334,
+        "total_general_ejecutado": 430.318
+      }
+    },
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "sdf hyt h1231232",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110185903_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110185903_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110185903_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "albañileria",
+        "rendimiento": 6.5,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 10.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "OPERADOR DE EQUIPO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.12,
+            "Cantidad (HH)": 1.2307692307692308,
+            "Parcial (S/)": 30.91692307692308
+          },
+          {
+            "Descripción": "OPERADOR DE EQUIPO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.12,
+            "Cantidad (HH)": 1.2307692307692308,
+            "Parcial (S/)": 30.91692307692308
+          }
+        ],
+        "materiales": [],
+        "equipos": [],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 61.83384615384616,
+        "materiales": 0,
+        "equipos": 0,
+        "otros": 0,
+        "total_general": 61.83384615384616,
+        "total_general_ejecutado": 618.3384615384616
+      }
+    },
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "sdfsd",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110185235_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110185235_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110185235_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "Cimentacion",
+        "rendimiento": 6.5,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 6.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "OPERADOR DE EQUIPO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.12,
+            "Cantidad (HH)": 1.2307692307692308,
+            "Parcial (S/)": 30.91692307692308
+          }
+        ],
+        "materiales": [],
+        "equipos": [],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 30.91692307692308,
+        "materiales": 0,
+        "equipos": 0,
+        "otros": 0,
+        "total_general": 30.91692307692308,
+        "total_general_ejecutado": 185.50153846153847
+      }
+    },
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "hfghftg",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110184715_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110184715_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110184715_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "Estructura",
+        "rendimiento": 6.0,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 6.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "PEON",
+            "Cuadrilla": 0.5,
+            "Precio Unit.": 17.927,
+            "Cantidad (HH)": 0.6666666666666666,
+            "Parcial (S/)": 11.951333333333332
+          },
+          {
+            "Descripción": "PEON",
+            "Cuadrilla": 0.5,
+            "Precio Unit.": 17.927,
+            "Cantidad (HH)": 0.6666666666666666,
+            "Parcial (S/)": 11.951333333333332
+          }
+        ],
+        "materiales": [
+          {
+            "Descripción": "ARENA GRUESA",
+            "Cantidad": 0.023,
+            "Precio Unit.": 35.0,
+            "Parcial (S/)": 0.8049999999999999
+          },
+          {
+            "Descripción": "ARENA GRUESA",
+            "Cantidad": 0.023,
+            "Precio Unit.": 35.0,
+            "Parcial (S/)": 0.8049999999999999
+          }
+        ],
+        "equipos": [
+          {
+            "Descripción": "DISCO DE CORTE",
+            "Cantidad": 3.0,
+            "Precio Unit.": 15.0,
+            "Parcial (S/)": 45.0
+          },
+          {
+            "Descripción": "DISCO DE CORTE",
+            "Cantidad": 3.0,
+            "Precio Unit.": 15.0,
+            "Parcial (S/)": 45.0
+          }
+        ],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 23.902666666666665,
+        "materiales": 1.6099999999999999,
+        "equipos": 90.0,
+        "otros": 0,
+        "total_general": 115.51266666666666,
+        "total_general_ejecutado": 693.076
+      }
+    },
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "fdsgfgsdfg",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110184607_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110184607_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110184607_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "Estructura",
+        "rendimiento": 6.5,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 6.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "OPERARIO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.116,
+            "Cantidad (HH)": 1.2307692307692308,
+            "Parcial (S/)": 30.912000000000003
+          },
+          {
+            "Descripción": "PEON",
+            "Cuadrilla": 0.5,
+            "Precio Unit.": 17.927,
+            "Cantidad (HH)": 0.6153846153846154,
+            "Parcial (S/)": 11.032
+          }
+        ],
+        "materiales": [
+          {
+            "Descripción": "ENCOFRADO Y DESENCOFRADO NORMAL",
+            "Cantidad": 0.023,
+            "Precio Unit.": 40.0,
+            "Parcial (S/)": 0.9199999999999999
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 0.023,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 0.0805
+          },
+          {
+            "Descripción": "ACERO CORRUGADO FY = 4200 KG/CM2 GRADO 60",
+            "Cantidad": 0.023,
+            "Precio Unit.": 3.4,
+            "Parcial (S/)": 0.07819999999999999
+          },
+          {
+            "Descripción": "ARENA GRUESA",
+            "Cantidad": 0.023,
+            "Precio Unit.": 35.0,
+            "Parcial (S/)": 0.8049999999999999
+          }
+        ],
+        "equipos": [
+          {
+            "Descripción": "CIZALLA ELECTRICA",
+            "Cantidad": 3.0,
+            "Precio Unit.": 4.07,
+            "Parcial (S/)": 12.21
+          },
+          {
+            "Descripción": "DISCO DE CORTE",
+            "Cantidad": 3.0,
+            "Precio Unit.": 15.0,
+            "Parcial (S/)": 45.0
+          }
+        ],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 41.944,
+        "materiales": 1.8837,
+        "equipos": 57.21,
+        "otros": 0,
+        "total_general": 101.0377,
+        "total_general_ejecutado": 606.2262000000001
+      }
+    },
+    {
+      "fecha": "2026-01-10",
+      "responsable": "admin",
+      "avance": 5,
+      "obs": "No se usaron equipos",
+      "fotos": [
+        "data/fotos/rinconada_2026-01-10_20260110182449_descarga (2).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110182449_descarga (1).jpg",
+        "data/fotos/rinconada_2026-01-10_20260110182449_descarga.jpg"
+      ],
+      "partida": {
+        "nombre": "Cimentacion",
+        "rendimiento": 6.499999999999998,
+        "unidad": "m2",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 6.0
+      },
+      "costos": {
+        "mano_de_obra": [
+          {
+            "Descripción": "OPERADOR DE EQUIPO",
+            "Cuadrilla": 1.0,
+            "Precio Unit.": 25.12,
+            "Cantidad (HH)": 1.230769230769231,
+            "Parcial (S/)": 30.916923076923087
+          },
+          {
+            "Descripción": "CAPATAZ",
+            "Cuadrilla": 0.1,
+            "Precio Unit.": 27.628,
+            "Cantidad (HH)": 0.12307692307692311,
+            "Parcial (S/)": 3.4003692307692317
+          },
+          {
+            "Descripción": "PEON",
+            "Cuadrilla": 0.5,
+            "Precio Unit.": 17.927,
+            "Cantidad (HH)": 0.6153846153846155,
+            "Parcial (S/)": 11.032000000000002
+          }
+        ],
+        "materiales": [
+          {
+            "Descripción": "ARENA GRUESA",
+            "Cantidad": 0.0209,
+            "Precio Unit.": 35.0,
+            "Parcial (S/)": 0.7314999999999999
+          },
+          {
+            "Descripción": "CEMENTO PORTLAND TIPO I ( 42.5 KG )",
+            "Cantidad": 0.0837,
+            "Precio Unit.": 33.0,
+            "Parcial (S/)": 2.7620999999999998
+          },
+          {
+            "Descripción": "AGUA",
+            "Cantidad": 0.051,
+            "Precio Unit.": 8.5,
+            "Parcial (S/)": 0.4335
+          },
+          {
+            "Descripción": "LADRILLO SILICO CALCAREO PLACA P-10",
+            "Cantidad": 7.8,
+            "Precio Unit.": 4.1,
+            "Parcial (S/)": 31.979999999999997
+          },
+          {
+            "Descripción": "ALAMBRE NEGRO RECOCIDO BWG # 8",
+            "Cantidad": 0.025,
+            "Precio Unit.": 3.8,
+            "Parcial (S/)": 0.095
+          },
+          {
+            "Descripción": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+            "Cantidad": 0.25,
+            "Precio Unit.": 3.5,
+            "Parcial (S/)": 0.875
+          }
+        ],
+        "equipos": [],
+        "otros": []
+      },
+      "totales": {
+        "mano_de_obra": 45.34929230769232,
+        "materiales": 36.8771,
+        "equipos": 0,
+        "otros": 0,
+        "total_general": 82.22639230769232,
+        "total_general_ejecutado": 493.35835384615393
+      }
+    }
+  ],
+  "presupuesto_total": 90000.0,
+  "cronograma": [
+    {
+      "nombre": "Cimentación",
+      "fecha_inicio": "2026-01-06",
+      "fecha_fin": "2026-01-15",
+      "monto_planificado": 12000.0,
+      "descripcion": "Cimentación + concreto f'c 210",
+      "id": "crono_20260113232223958700"
+    },
+    {
+      "nombre": "Albañileria",
+      "fecha_inicio": "2026-02-06",
+      "fecha_fin": "2026-02-20",
+      "monto_planificado": 18000.0,
+      "descripcion": "Muros + tarrajeo",
+      "id": "crono_20260113232348480020"
+    }
+  ],
+  "hitos_pago": [
+    {
+      "descripcion": "Valorización N 01",
+      "fecha": "2026-01-31",
+      "monto": 15000.0,
+      "estado": "Pagado",
+      "observacion": "Valorización mensual enero",
+      "id": "hito_20260113233125876666",
+      "creado_por": "jefe"
+    },
+    {
+      "descripcion": "Valorización N 02",
+      "fecha": "2026-02-28",
+      "monto": 20000.0,
+      "estado": "Pagado",
+      "observacion": "Valorización mensual febrero",
+      "id": "hito_20260113233201822788"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "avance": [
+    {
+      "fecha": "2026-01-14",
+      "responsable": "pasante-pachacutec",
+      "avance": 5,
+      "obs": "Me pase",
+      "fotos": [
+        "data/fotos/pachacutec_2026-01-14_20260114162834953394_images (3).jpg",
+        "data/fotos/pachacutec_2026-01-14_20260114162834954286_tubing-2672187_1280.jpg",
+        "data/fotos/pachacutec_2026-01-14_20260114162834955335_images (2).jpg"
+      ],
+      "partida": {
+        "nombre": "Cimentizacion Adornos",
+        "rendimiento": 6.0,
+        "unidad": "M3",
+        "jornal_horas": 8,
+        "cantidad_ejecutada": 20.0
+      },
+      "costos": {
+        "mano_de_obra": [],
+        "materiales": [
+          {
+            "Descripción": "ALAMBRE NEGRO RECOCIDO BWG # 16",
+            "Cantidad": 50.0,
+            "Precio Unit.": 3.8,
+            "Parcial (S/)": 190.0
+          },
+          {
+            "Descripción": "ACERO CORRUGADO FY = 4200 KG/CM2 GRADO 60",
+            "Cantidad": 2000.0,
+            "Precio Unit.": 3.4,
+            "Parcial (S/)": 6800.0
+          },
+          {
+            "Descripción": "LADRILLO LARK DE ARCILLA 0.30X0.30X0.25M",
+            "Cantidad": 3000.0,
+            "Precio Unit.": 5.0,
+            "Parcial (S/)": 15000.0
+          },
+          {
+            "Descripción": "CORDEL ROLLO DE 50 M",
+            "Cantidad": 10000.0,
+            "Precio Unit.": 13.56,
+            "Parcial (S/)": 135600.0
+          }
+        ],
+        "equipos": [
+          {
+            "Descripción": "CIZALLA ELECTRICA",
+            "Cantidad": 200.0,
+            "Precio Unit.": 4.07,
+            "Parcial (S/)": 814.0
+          },
+          {
+            "Descripción": "DISCO DE CORTE",
+            "Cantidad": 100.0,
+            "Precio Unit.": 15.0,
+            "Parcial (S/)": 1500.0
+          },
+          {
+            "Descripción": "TEODOLITO",
+            "Cantidad": 300.0,
+            "Precio Unit.": 6.28,
+            "Parcial (S/)": 1884.0
+          }
+        ],
+        "otros": [
+          {
+            "Descripción": "GUARDIANIA DE OBRA",
+            "Cantidad": 100.0,
+            "Precio Unit.": 3900.0,
+            "Parcial (S/)": 390000.0
+          }
+        ]
+      },
+      "totales": {
+        "mano_de_obra": 0.0,
+        "materiales": 157590.0,
+        "equipos": 4198.0,
+        "otros": 390000.0,
+        "total_general": 551788.0,
+        "total_general_ejecutado": 11035760.0
+      }
+    }
+  ],
+  "presupuesto_total": 90000.0,
+  "cronograma": [
+    {
+      "nombre": "Pasable",
+      "fecha_inicio": "2026-01-24",
+      "fecha_fin": "2026-02-13",
+      "monto_planificado": 20000.0,
+      "descripcion": "Concret 20",
+      "estado": "Pendiente",
+      "creado_por": "pasante-pachacutec",
+      "id": "crono_20260114132830987737"
+    },
+    {
+      "nombre": "Avanzes",
+      "fecha_inicio": "2026-01-30",
+      "fecha_fin": "2026-02-27",
+      "monto_planificado": 30000.0,
+      "descripcion": "Compras",
+      "estado": "Pendiente",
+      "creado_por": "pasante-pachacutec",
+      "id": "crono_20260114132905084607"
+    }
+  ],
+  "hitos_pago": [
+    {
+      "descripcion": "Cimentación (Zapatas y sobrecimientos)",
+      "fecha": "2026-01-15",
+      "monto": 12000.0,
+      "estado": "Pendiente",
+      "observacion": "Incluye excavación, acero, encofrado y vaciado de concreto",
+      "id": "hito_20260114095958669142"
+    }
+  ]
+}

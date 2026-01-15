@@ -1,0 +1,362 @@
+[
+  {
+    "Insumo": "ENCOFRADO Y DESENCOFRADO NORMAL",
+    "Unidad": "m2",
+    "Precio Unitario": 40.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ALAMBRE NEGRO RECOCIDO BWG # 16",
+    "Unidad": "KG",
+    "Precio Unitario": 3.8,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ALAMBRE NEGRO RECOCIDO BWG # 8",
+    "Unidad": "KG",
+    "Precio Unitario": 3.8,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CLAVOS C/ CABEZA P/ CONSTRUCCION D. PROMEDIO",
+    "Unidad": "KG",
+    "Precio Unitario": 3.5,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CLAVOS DE ACERO",
+    "Unidad": "KG",
+    "Precio Unitario": 5.6,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ACERO CORRUGADO FY = 4200 KG/CM2 GRADO 60",
+    "Unidad": "KG",
+    "Precio Unitario": 3.4,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ARENA GRUESA",
+    "Unidad": "M3",
+    "Precio Unitario": 35.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ARENA FINA",
+    "Unidad": "M3",
+    "Precio Unitario": 35.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "HORMIGON",
+    "Unidad": "M3",
+    "Precio Unitario": 35.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "AFIRMADO",
+    "Unidad": "M3",
+    "Precio Unitario": 38.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "PIEDRA CHANCADA DE 1/2\" - 3/4\"",
+    "Unidad": "M3",
+    "Precio Unitario": 50.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "PIEDRA GRANDE MAX 6\"",
+    "Unidad": "M3",
+    "Precio Unitario": 52.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LADRILLO LARK DE ARCILLA 0.30X0.30X0.15M",
+    "Unidad": "UND",
+    "Precio Unitario": 2.4,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LADRILLO LARK DE ARCILLA 0.30X0.30X0.20M",
+    "Unidad": "UND",
+    "Precio Unitario": 3.5,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LADRILLO LARK DE ARCILLA 0.30X0.30X0.25M",
+    "Unidad": "UND",
+    "Precio Unitario": 5.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CEMENTO PORTLAND TIPO I ( 42.5 KG )",
+    "Unidad": "BOL",
+    "Precio Unitario": 33.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CONCRETO PREMEZCLADO C/ CEMENTO TIPO I, F'C = 175 KG/CM2",
+    "Unidad": "M3",
+    "Precio Unitario": 220.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CONCRETO PREMEZCLADO C/ CEMENTO TIPO 1, F'C = 210 KG/CM2",
+    "Unidad": "M3",
+    "Precio Unitario": 265.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CONCRETO PREMEZCLADO C/ CEMENTO TIPO 1, F'C = 280 KG/CM2",
+    "Unidad": "M3",
+    "Precio Unitario": 280.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CONCRETO PREMEZCLADO C/ CEMENTO TIPO 1, F'C = 350 KG/CM2",
+    "Unidad": "M3",
+    "Precio Unitario": 300.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "SEPARADORES DE CONCRETO 7.0 cm",
+    "Unidad": "MILL",
+    "Precio Unitario": 350.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "SEPARADORES DE CONCRETO 4.0 cm",
+    "Unidad": "MILL",
+    "Precio Unitario": 201.75,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "SEPARADORES DE CONCRETO 2.5 cm",
+    "Unidad": "MILL",
+    "Precio Unitario": 170.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ADITIVO CURADOR P/ ESTRUCTURAS DE CONCRETO",
+    "Unidad": "GLN",
+    "Precio Unitario": 4.81,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "PLASTICO POLIETILENO DOBLE, AZUL (rollo de 50 Kg) A=1.20 M",
+    "Unidad": "RLL",
+    "Precio Unitario": 240.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "YESO EN BOLSA DE 20 KG",
+    "Unidad": "BOL",
+    "Precio Unitario": 8.47,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "CORDEL ROLLO DE 50 M",
+    "Unidad": "PZA",
+    "Precio Unitario": 13.56,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "WINCHA DE 30 M",
+    "Unidad": "PZA",
+    "Precio Unitario": 35.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LIJA PARA METAL",
+    "Unidad": "HJA",
+    "Precio Unitario": 1.3,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ELASTOMERICO",
+    "Unidad": "UND",
+    "Precio Unitario": 222.5,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "DOBLADORA",
+    "Unidad": "HM",
+    "Precio Unitario": 2.89,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "CIZALLA ELECTRICA",
+    "Unidad": "HM",
+    "Precio Unitario": 4.07,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "AGUA",
+    "Unidad": "M3",
+    "Precio Unitario": 8.5,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "MADERA ANDAMIAJE",
+    "Unidad": "P2",
+    "Precio Unitario": 4.27,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "DESMOLDANTE P/ ENCOFRADO",
+    "Unidad": "GLN",
+    "Precio Unitario": 121.41,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "RC 250",
+    "Unidad": "CILINDRO",
+    "Precio Unitario": 440.68,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "DISCO DE CORTE",
+    "Unidad": "UND",
+    "Precio Unitario": 15.0,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "PINTURA ESMALTE SINTETICO",
+    "Unidad": "GLN",
+    "Precio Unitario": 26.48,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "BREA- CILINDRO POR M2",
+    "Unidad": "PLN",
+    "Precio Unitario": 554.62,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "POLIESTIRENO EXPANDIDO ( TECKNOPOR ) 4' x 8' x 2\"",
+    "Unidad": "PLN",
+    "Precio Unitario": 24.51,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "REGLA DE ALUMINIO 3M",
+    "Unidad": "UND",
+    "Precio Unitario": 66.1,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "LADRILLO DE ARCILLA KK",
+    "Unidad": "UND",
+    "Precio Unitario": 1.8,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LADRILLO PASTELERO 24X24X3CM",
+    "Unidad": "UND",
+    "Precio Unitario": 2.2,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "ADITIVO IMPERMEABILIZANTE PARA CONCRETO 1KG",
+    "Unidad": "BOL",
+    "Precio Unitario": 28.0,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "LADRILLO SILICO CALCAREO PLACA P-10",
+    "Unidad": "UND",
+    "Precio Unitario": 4.1,
+    "Tipo": "materiales"
+  },
+  {
+    "Insumo": "SERVICIO BOMBA TELESCOPICA",
+    "Unidad": "M3",
+    "Precio Unitario": 35.0,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "VIBRADOR DE CONCRETO 4 HP 1.50\"",
+    "Unidad": "HM",
+    "Precio Unitario": 6.5,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "VIBRADOR DE CONCRETO 4 HP 2.40\"",
+    "Unidad": "HM",
+    "Precio Unitario": 7.7,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "MEZCLADORA DE CONCRETO TAMBOR 23 HP, 11-12 p3",
+    "Unidad": "HM",
+    "Precio Unitario": 9.25,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "TEODOLITO",
+    "Unidad": "HM",
+    "Precio Unitario": 6.28,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "JALON",
+    "Unidad": "HM",
+    "Precio Unitario": 0.63,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "MIRA TOPOGRAFICA",
+    "Unidad": "HM",
+    "Precio Unitario": 1.03,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "PLANCHA COMPACTADORA",
+    "Unidad": "HM",
+    "Precio Unitario": 35.0,
+    "Tipo": "equipos"
+  },
+  {
+    "Insumo": "OPERADOR DE EQUIPO",
+    "Unidad": "HH",
+    "Precio Unitario": 25.12,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "TOPOGRAFO",
+    "Unidad": "HH",
+    "Precio Unitario": 25.12,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "CAPATAZ",
+    "Unidad": "HH",
+    "Precio Unitario": 27.628,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "OPERARIO",
+    "Unidad": "HH",
+    "Precio Unitario": 25.116,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "OFICIAL",
+    "Unidad": "HH",
+    "Precio Unitario": 19.77,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "PEON",
+    "Unidad": "HH",
+    "Precio Unitario": 17.927,
+    "Tipo": "mano de obra"
+  },
+  {
+    "Insumo": "GUARDIANIA DE OBRA",
+    "Unidad": "glB",
+    "Precio Unitario": 3900.0,
+    "Tipo": "otros"
+  }
+]

@@ -4,7 +4,7 @@ import pandas as pd
 import os
 import unicodedata
 from typing import Optional, Tuple, Dict, List, Any
-from modules.caja_chica import mostrar_caja_chica
+from caja_chica import mostrar_caja_chica
 
 # ==================== CONFIGURACIÓN DE PÁGINA ====================
 st.set_page_config(
